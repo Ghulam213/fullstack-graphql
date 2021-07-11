@@ -5,20 +5,6 @@
   },
   "pet": [
     {
-      "id": "1",
-      "name": "Charlie",
-      "type": "DOG",
-      "createdAt": 20210709,
-      "user": "jBWMVGjm50l6LGwepDoty"
-    },
-    {
-      "id": "2",
-      "name": "Tom",
-      "type": "CAT",
-      "createdAt": 20210710,
-      "user": "jBWMVGjm50l6LGwepDoty"
-    },
-    {
       "id": "I1nOrgHpl_qtfVbSPo6Sr",
       "createdAt": 1625841063598,
       "name": "Duffy",
@@ -31,6 +17,42 @@
       "name": "Mason",
       "type": "CAT",
       "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "BqPjCeQ0KVkfM4gDuVLeu",
+      "createdAt": 1625937174516,
+      "name": "Julio",
+      "type": "DOG"
+    },
+    {
+      "id": "jsgP_GYsTr0F6zCYn_FNU",
+      "createdAt": 1625937780446,
+      "name": "Jack",
+      "type": "CAT"
+    },
+    {
+      "id": "XD6HaTM8NACo8cObbPyfR",
+      "createdAt": 1625940088223,
+      "name": "Jessica",
+      "type": "CAT"
+    },
+    {
+      "id": "0_jPjqDTxufkdXu172uS5",
+      "createdAt": 1626022227822,
+      "name": "Demish",
+      "type": "CAT"
+    },
+    {
+      "id": "YUAN3IDn-KoOdBPZQjJUC",
+      "createdAt": 1626022282903,
+      "name": "Julie",
+      "type": "CAT"
+    },
+    {
+      "id": "8LN7vaEzlI0GO491iIkW4",
+      "createdAt": 1626022414280,
+      "name": "Fasty",
+      "type": "DOG"
     }
   ]
 }
